@@ -1,5 +1,7 @@
 import random
 
+# random.seed(1)
+
 # 실수 난수[0.0 ~ 1.0)) 얻기
 print(random.random())
 
